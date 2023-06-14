@@ -20,6 +20,7 @@ namespace AllAboutClasses
 
         // classess have default constructor - with no parameters and do nothing
 
+        // instance constructor
         public Country()
         {
 
