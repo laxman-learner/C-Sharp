@@ -28,3 +28,18 @@ E:\FSD Practice\C Sharp Basics\First\bin\Debug\net7.0\First.dll
 E:\FSD Practice\C Sharp Basics\First\bin\Debug\net7.0\First.pdb
 E:\FSD Practice\C Sharp Basics\First\obj\Debug\net7.0\First.genruntimeconfig.cache
 E:\FSD Practice\C Sharp Basics\First\obj\Debug\net7.0\ref\First.dll
+E:\FSD Practice\C Sharp\First\bin\Debug\net7.0\First.exe
+E:\FSD Practice\C Sharp\First\bin\Debug\net7.0\First.deps.json
+E:\FSD Practice\C Sharp\First\bin\Debug\net7.0\First.runtimeconfig.json
+E:\FSD Practice\C Sharp\First\bin\Debug\net7.0\First.dll
+E:\FSD Practice\C Sharp\First\bin\Debug\net7.0\First.pdb
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.csproj.AssemblyReference.cache
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.GeneratedMSBuildEditorConfig.editorconfig
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.AssemblyInfoInputs.cache
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.AssemblyInfo.cs
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.csproj.CoreCompileInputs.cache
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.dll
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\refint\First.dll
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.pdb
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\First.genruntimeconfig.cache
+E:\FSD Practice\C Sharp\First\obj\Debug\net7.0\ref\First.dll

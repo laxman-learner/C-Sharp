@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FSD Practice\\C Sharp Basics\\First\\First.csproj": {}
+    "E:\\FSD Practice\\C Sharp\\First\\First.csproj": {}
   },
   "projects": {
-    "E:\\FSD Practice\\C Sharp Basics\\First\\First.csproj": {
+    "E:\\FSD Practice\\C Sharp\\First\\First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FSD Practice\\C Sharp Basics\\First\\First.csproj",
+        "projectUniqueName": "E:\\FSD Practice\\C Sharp\\First\\First.csproj",
         "projectName": "First",
-        "projectPath": "E:\\FSD Practice\\C Sharp Basics\\First\\First.csproj",
+        "projectPath": "E:\\FSD Practice\\C Sharp\\First\\First.csproj",
         "packagesPath": "C:\\Users\\laxma\\.nuget\\packages\\",
-        "outputPath": "E:\\FSD Practice\\C Sharp Basics\\First\\obj\\",
+        "outputPath": "E:\\FSD Practice\\C Sharp\\First\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laxma\\AppData\\Roaming\\NuGet\\NuGet.Config"
