@@ -71,7 +71,7 @@ namespace LearnCollection
     {
         public string Name { get; set; }
 
-        static void Main()
+        static void Main7()
         {
             Collection collection = new Collection();
             collection.LearnDictionary();

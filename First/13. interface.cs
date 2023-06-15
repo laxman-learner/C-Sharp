@@ -8,14 +8,20 @@ public abstract class Shape
     public virtual void PrintResults()
     // virtual means optional to override
     {
-        Console.WriteLine("Printing result for some shape");
+        Console.WriteLine("Printing result for some shape ......");
     }
 
 }
 
+
+interface IDiagonalComputable
+{
+    public double GetDiagonal();
+}
+
 // derived class
 
-public class Rectangle : Shape
+public class Rectangle : Shape, IDiagonalComputable
 {
     public double Length { get; set; }
     public double Breadth { get; set; }
@@ -40,6 +46,10 @@ public class Rectangle : Shape
         // 'this' represents current object.
 
         // Console.WriteLine($"Area : {GetArea()}"); is also valid
+
+        public double GetDiagonal() => Math.Sqrt(Length * Length + Breadth + Breadth);
+
+
 
     }
 
