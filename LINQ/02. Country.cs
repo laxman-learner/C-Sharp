@@ -81,5 +81,7 @@ class Program
     {
         Program p1 = new Program();
         p1.LearnLinqOnComplexCollection();
+        Console.WriteLine("All Right ?");
+
     }
 }
