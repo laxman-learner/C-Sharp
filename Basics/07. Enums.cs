@@ -18,6 +18,8 @@ internal class Demo
         if (day == DayOfWeek.Saturday)
         {
             Console.WriteLine("Greeting, Happay Holiday");
+            Console.WriteLine("Congrats, You have safe the day");
+
         }
     }
 }
