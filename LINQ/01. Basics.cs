@@ -188,7 +188,7 @@ namespace LINQ.Learning
             }
 
             //  Note: IEnumerable is base interface
-
+            Console.WriteLine("All Right ?");
 
 
 
